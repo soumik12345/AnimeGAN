@@ -36,4 +36,4 @@ The AnimeGAN was trained on 21551 anime face images from size `(64, 64)` and was
 
 ![Learning Faces](./images/discriminator_loss.png)
 
-![Learning Faces](./images/sample_output.png)
+![Learning Faces](./images/smaple_output.png)
